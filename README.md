@@ -12,7 +12,7 @@
 - 📫 How to reach me: You can find me and connect with me on Linkedin at the link above. ☝️ 
 - ⚡ Fun fact: Plants lover 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### Skills: .NET / SQL / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanTheCode&show_icons=true)  
 
