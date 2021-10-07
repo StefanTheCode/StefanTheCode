@@ -9,5 +9,5 @@
 - 📫 How to reach me: You can find me and connect with me on Linkedin at the link above. ☝️
 - ⚡ Fun fact: Plants lover
 
-
+________________________________________________________________________________________________________________
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanTheCode)](https://github.com/StefanTheCode)
