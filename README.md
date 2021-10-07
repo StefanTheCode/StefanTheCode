@@ -1,8 +1,7 @@
 ### Hola there 👋 
 ### The guy on the left is me, Stefan Djokic. 😄
 
-## I am a software engineer, a future entrepreneur and a crypto lover.
-____________________________________________________________________________
+## I'm a Software Engineer, a Future Entrepreneur and a Crypto Lover.
 
 - 🔭 I'm currently working on developing my first crypto bot.
 - 🌱 I'm currently learning about blockchain technology and developing crypto applications.
