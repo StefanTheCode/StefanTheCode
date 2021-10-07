@@ -10,4 +10,4 @@
 - ⚡ Fun fact: Plants lover
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanTheCode)](https://github.com/StefanTheCode/github-readme-stats)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanTheCode)](https://github.com/StefanTheCode)
