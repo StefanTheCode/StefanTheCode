@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### The guy on the left is me, Stefan Djokic. 😄 <div align = 'right'>![](https://komarev.com/ghpvc/?username=StefanTheCode&color=blueviolet)</div>
+### The guy on the left is me, Stefan Djokic. 😄 <div align = 'right'>![Profile views](https://gpvc.arturio.dev/StefanTheCode)  </div>
 
 #  [<img src='https://stefandjokic.tech/images/favicon.png' alt='Newsletter' height='30'>](https://stefandjokic.tech/) <a href="https://stefandjokic.tech/"> Newsletter </a>
 
@@ -15,4 +15,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanTheCode&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/StefanTheCode)  
+
